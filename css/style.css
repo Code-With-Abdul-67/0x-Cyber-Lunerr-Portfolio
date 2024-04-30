@@ -1,0 +1,15 @@
+body {
+    overflow-x: hidden;
+}
+.navbar-brand{
+    color: yellow;
+    font-family:'Courier New', Courier, monospace;
+}
+
+.navbar-brand:hover{
+    color: yellow;
+}
+
+.nav-link.nav-link:hover{
+    color: rgb(78, 24, 216);
+}
